@@ -7,12 +7,12 @@ Welcome to **Infinite Runner**, a fast-paced endless runner inspired by popular 
 - **⚠️ Obstacle Collisions:** Hitting any obstacle results in a level restart, pushing players to perfect their timing and reflexes.
 - **🎯 Score System:** The longer the player survives, the higher the score! The score is based on the distance traveled, motivating players to keep going.
 
-**🧠 Key Learnings**
+### **🧠 Key Learnings**
 - Developed character movement and obstacle avoidance using Unreal Engine 5 Blueprints.
 - Implemented a collision system to reset the level upon impact with obstacles, encouraging replayability.
 - Created a distance-based scoring system to track and reward players' progress.
 
-**🚀 What's Next?**
+### **🚀 What's Next?**
 This is just the beginning! Future updates to Infinite Runner will include:
 
 - 🏃‍♂️ More complex and dynamic obstacles to keep the gameplay challenging.
