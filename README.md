@@ -1,4 +1,4 @@
-#***🚀 Infinite Runner 🎮***
+# ***🚀 Infinite Runner 🎮***
 
 Welcome to **Infinite Runner**, a fast-paced endless runner inspired by popular games like Subway Surfer and Temple Run! This project has been a great opportunity for me to dive deeper into Unreal Engine 5 and work with Blueprints to create a fun and dynamic experience.
 
